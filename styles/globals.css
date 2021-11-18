@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;1,700;1,900&display=swap');
+
+.iGracias {
+    @apply h-screen bg-[#b91432] flex items-start justify-start p-5 text-white
+}
+

@@ -6,6 +6,9 @@ module.exports = {
   darkMode: false,
   theme: {
     extend: {
+      fontFamily: {
+        sans: ["Lato"],
+      },
       colors: {
         ...colors,
       },
